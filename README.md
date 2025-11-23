@@ -7,11 +7,11 @@ Also feels worth noting that these are the initial values (Angular Vel & Positio
 
 ### 1. Dittos - Doesn't follow a clear pattern
   1.
-    > Outer Arm Vel -> 0.2
-    > Inner Arm Vel -> 0.5
+    Outer Arm Vel -> 0.2
+    Inner Arm Vel -> 0.5
     
-    > Outer Arm Pos -> PI/2
-    > Inner Arm Pos -> PI/2
+    Outer Arm Pos -> PI/2
+    Inner Arm Pos -> PI/2
 
   3.
     Outer Arm -> 0.2
