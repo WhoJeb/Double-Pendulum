@@ -4,12 +4,12 @@
 
 ### 1. Dittos - Doesn't follow a clear pattern
   1.
-    omega1 -> 0.2
-    omega2 -> 0.5
+    Outer Arm -> 0.2
+    Inner Arm -> 0.5
 
   2.
-    omega1 -> 0.2
-    omega2 -> 0
+    Outer Arm -> 0.2
+    Inner Arm -> 0
 
   3.
     Outer Arm -> 0.5
