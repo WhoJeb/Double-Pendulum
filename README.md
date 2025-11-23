@@ -14,22 +14,30 @@ Also feels worth noting that these are the initial values (Angular Vel & Positio
     Inner Arm Pos -> PI/2
 
   3.
-    Outer Arm -> 0.2
-    Inner Arm -> 0
+    Outer Arm Vel -> 0.2
+    Inner Arm Vel -> 0
     
     Outer Arm Pos -> PI/2
     Inner Arm Pos -> PI/2
 
   5.
-    Outer Arm -> 0.5
-    Inner Arm -> 0
+    Outer Arm Vel -> 0.5
+    Inner Arm Vel -> 0
     
     Outer Arm Pos -> PI/2
     Inner Arm Pos -> PI/2
 
   7.
-    Outer Arm -> 0.2
-    Inner Arm -> 0.05
+    Outer Arm Vel -> 0.2
+    Inner Arm Vel -> 0.05
     
     Outer Arm Pos -> PI/2
     Inner Arm Pos -> PI/2
+
+### 2. Half Patterns
+  1.
+      - Outer Arm Vel -> 0.1
+      - Inner Arm Vel -> 0
+
+      - Outer Arm Pos -> PI/2
+      - Inner Arm Pos -> -PI/4
