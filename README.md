@@ -44,11 +44,11 @@ Also feels worth noting that these are the initial values (Angular Vel & Positio
 
 ### 3. Spirographs
 1. The Starfish
-  - Outer Arm Pos -> PI/2
-  - Inner Arm Pos -> -PI/4
+    - Outer Arm Pos -> PI/2
+    - Inner Arm Pos -> -PI/4
 
-  - Outer Arm Vel -> 5
-  - Inner Arm Vel -> -5
+    - Outer Arm Vel -> 5
+    - Inner Arm Vel -> -5
 
 2. The Caligrapher
   Outer Arm Pos -> PI/2
