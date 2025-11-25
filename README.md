@@ -41,3 +41,39 @@ Also feels worth noting that these are the initial values (Angular Vel & Positio
 
     Outer Arm Pos -> PI/2
     Inner Arm Pos -> -PI/4
+
+### 3. Spirographs
+1. The Starfish
+  Outer Arm Pos -> PI/2
+  Inner Arm Pos -> -PI/4
+
+  Outer Arm Vel -> 5
+  Inner Arm Vel -> -5
+
+2. The Caligrapher
+  Outer Arm Pos -> PI/2
+  Inner Arm Pos -> -PI/4
+
+  Outer Arm Vel -> 5
+  Inner Arm Vel -> -7
+  
+3. Trinity
+  Outer Arm Pos -> PI/2
+  Inner Arm Pos -> -PI/4
+
+  Outer Arm Vel -> -7
+  inner Arm Vel -> 5
+
+4. Swirl
+  Outer Arm Pos -> PI/2
+  Inner Arm Pos -> -PI/4
+
+  Outer Arm Vel -> -6
+  inner Arm Vel -> 5
+
+5. (Goes chaotic after a while)
+  Outer Arm Pos -> PI/2
+  Inner Arm Pos -> -PI/4
+
+  Outer Arm Vel -> 4
+  Inner Arm Vel -> -1
