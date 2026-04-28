@@ -21,7 +21,7 @@ public class DoublePendulumPanel extends JPanel implements ActionListener {
 
         pendulum = new DoublePendulum();
 
-        timer = new Timer(4, this);
+        timer = new Timer(2, this);
         timer.start();
     }
 

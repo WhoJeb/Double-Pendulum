@@ -1,18 +1,20 @@
 public class DoublePendulum {
 
-    public double g = 9.81;
+    // public double g = 9.81;
+    public double g = 0; // So the pattern repeats infintely... probably
 
     public double L1 = 150;
     public double L2 = 150;
     public double m1 = 20;
     public double m2 = 20;
 
-    public double theta1 = Math.PI / 2;
-    public double theta2 = Math.PI / 2;
+    // Initial Pendulum Starting Position
+    public double theta1 = Math.PI / 2; // Outside Arm
+    public double theta2 = -Math.PI / 4; // Inside Arm
 
-    // Angular Forces
-    public double omega1 = 0.5; // Outer Arm
-    public double omega2 = 0; // Inner Arm
+    // Initial Angular Forces
+    public double omega1 = -6; // Outer Arm     4, 
+    public double omega2 = 5; // Inner Arm   -1,
 
     public DoublePendulum() {}
 
