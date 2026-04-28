@@ -1,8 +1,8 @@
 # Double Pendulum
 
 ## How to Compile and run
-javac *.java
-java Main
+1. javac *.java
+2. java Main
 
 ## Interesting Values
 Just a general rule of thumb the smaller the value the easier it is to get a good looking simulation.
